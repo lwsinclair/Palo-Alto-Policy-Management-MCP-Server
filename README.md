@@ -1,5 +1,7 @@
 # Palo Alto Policy Management MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@DynamicEndpoints/palo-alto-policy-management-mcp-server)](https://smithery.ai/server/@DynamicEndpoints/palo-alto-policy-management-mcp-server)
+
 A Model Context Protocol (MCP) server for managing Palo Alto Networks firewall policies. This server provides a standardized interface for interacting with Palo Alto Networks firewall configurations using the Model Context Protocol.
 
 ## Features
@@ -34,6 +36,14 @@ A Model Context Protocol (MCP) server for managing Palo Alto Networks firewall p
 - Access to a Palo Alto Networks firewall
 
 ## Installation
+
+### Installing via Smithery
+
+To install Palo Alto Policy Management Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@DynamicEndpoints/palo-alto-policy-management-mcp-server):
+
+```bash
+npx -y @smithery/cli install @DynamicEndpoints/palo-alto-policy-management-mcp-server --client claude
+```
 
 1. Clone the repository:
 ```bash

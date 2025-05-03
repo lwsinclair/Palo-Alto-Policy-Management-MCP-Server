@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dynamicendpoints-palo-alto-policy-management-mcp-server-badge.png)](https://mseep.ai/app/dynamicendpoints-palo-alto-policy-management-mcp-server)
+
 # Palo Alto Policy Management MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@DynamicEndpoints/palo-alto-policy-management-mcp-server)](https://smithery.ai/server/@DynamicEndpoints/palo-alto-policy-management-mcp-server)
